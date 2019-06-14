@@ -16,7 +16,7 @@ class App extends Component {
         <div className="appName">
             <h1>LOQUI</h1>
         </div>
-        <div>
+        <div className="headerLinks">
           <Nav className="justify-content-end" activeKey="/home">
           <Nav.Item>
             <Nav.Link eventKey="link-1">Interview Knowledge</Nav.Link>
