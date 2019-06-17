@@ -69,16 +69,6 @@ class App extends Component {
           <Route path="/about/" component={About} />
         </div>
       </Router>
-      <body>
-        <div className="appPhrase">
-          <h5>Practice Your Job Interviews With Loqui's Videos!</h5>
-        </div>
-        <div className="genIQ">
-          <Button variant="primary" size="lg">
-            Generate Interview Question
-          </Button>
-        </div>
-      </body>
       </React.Fragment>
     );
   }

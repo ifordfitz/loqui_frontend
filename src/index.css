@@ -9,6 +9,8 @@
   justify-content: space-between;
   padding: 2em;
   background-color: lightblue;
+  position: sticky;
+  top: 0;
 }
 
 body {
@@ -26,4 +28,14 @@ body {
 .appPhrase {
   text-align: center;
   padding: 1em;
+}
+
+.knowledgeHeader {
+  text-align: center;
+  padding-top: 2em;
+}
+
+.knowledgeContainer {
+  width: 80%;
+  padding-left: 12em;
 }
