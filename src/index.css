@@ -1,7 +1,7 @@
 .genIQ {
   display: flex;
   justify-content: center;
-  margin: 2em;
+  padding-top: 1em;
 }
 
 .header {
@@ -11,55 +11,72 @@
   background-color: lightblue;
   position: sticky;
   top: 0;
+
 }
 
 .headerLinks a {
   color: black;
+  font-family: 'Poppins', sans-serif;
 }
 
 body {
   background-color: whitesmoke;
+  font-family: 'Poppins', sans-serif;
 }
 
 .appName a {
   color: black;
+  font-family: 'Poppins', sans-serif;
 }
 
 .appName a:hover {
   text-decoration: none;
+  font-family: 'Poppins', sans-serif;
 }
 
 .appPhrase {
   text-align: center;
   padding: 1em;
+  font-family: 'Poppins', sans-serif;
 }
 
 .knowledgeHeader {
   text-align: center;
   padding-top: 2em;
+  font-family: 'Poppins', sans-serif;
 }
 
 .knowledgeContainer {
   width: 80%;
   padding-left: 12em;
+  font-family: 'Poppins', sans-serif;
 }
 
 .aboutHeader {
   padding-top: 2em;
   text-align: center;
+  font-family: 'Poppins', sans-serif;
 }
 
 .aboutInfo {
   width: 80%;
   padding-left: 12em;
+  font-family: 'Poppins', sans-serif;
 }
 
 .connectExplainer {
   padding-top: 2em;
   padding-bottom: 2em;
+  font-family: 'Poppins', sans-serif;
 }
 
 .connectContainer {
   width: 80%;
   padding-left: 12em;
+  font-family: 'Poppins', sans-serif;
+}
+
+.youtubeVideo {
+    text-align: center;
+    padding-top: 3em;
 }
