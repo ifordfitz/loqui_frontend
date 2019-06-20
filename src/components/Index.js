@@ -17,7 +17,8 @@ class Index extends Component {
             </Button>
           </div>
           <div className="youtubeVideo">
-            <iframe width="560" height="315" src="https://www.youtube.com/embed/pWJjh99gO8M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          <iframe src="//fast.wistia.net/embed/iframe/gx2i8iv702" allowtransparency="true" frameborder="0" scrolling="no" className="wistia_embed" name="wistia_embed" allowfullscreen mozallowfullscreen webkitallowfullscreen oallowfullscreen msallowfullscreen width="620" height="349"></iframe>
+<script src="//fast.wistia.net/assets/external/E-v1.js" async></script>
           </div>
         </body>
       </div>
