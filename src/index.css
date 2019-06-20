@@ -13,6 +13,10 @@
   top: 0;
 }
 
+.headerLinks a {
+  color: black;
+}
+
 body {
   background-color: whitesmoke;
 }
@@ -36,6 +40,26 @@ body {
 }
 
 .knowledgeContainer {
+  width: 80%;
+  padding-left: 12em;
+}
+
+.aboutHeader {
+  padding-top: 2em;
+  text-align: center;
+}
+
+.aboutInfo {
+  width: 80%;
+  padding-left: 12em;
+}
+
+.connectExplainer {
+  padding-top: 2em;
+  padding-bottom: 2em;
+}
+
+.connectContainer {
   width: 80%;
   padding-left: 12em;
 }

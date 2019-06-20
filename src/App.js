@@ -10,8 +10,8 @@ import Connect from './components/Connect.js';
 import Knowledge from './components/Knowledge.js';
 import Index from './components/Index.js';
 
-const array = ['pWJjh99gO8M','Otu_fzjFgjg', 'I7SLWWxn0PU', 'BjXi2M4X4FE', 'ETxN9jlSCvI', 'br8obCDqKXE', 'HZFm1wN1z2c', 'YS3hAgYjqMs', 'qqXO9aGib5I', 'NFv9mcJEWdY', 'XglY0zryHRE', '_F4DPsZCLNo']
-const randomVideo = array[Math.floor(Math.random() * array.length)];
+
+// const randomVideo = array[Math.floor(Math.random() * array.length)];
 
 // ===================
 // COMPONENT
@@ -21,7 +21,7 @@ class App extends Component {
   super(props)
   this.state = {
     baseURL: 'https://www.youtube.com/embed/',
-    videoURL: {randomVideo}
+    // videoURL: {randomVideo}
   }
   // this.handleSubmit = this.handleSubmit.bind(this)
 }

@@ -17,7 +17,7 @@ class Knowledge extends Component {
         </div>
         <div>
         <br/>
-          The STAR interview technique offers a straightforward format you can use to answer behavioral interview questions—those prompts that ask you to provide a real-life example of how you handled a certain kind of situation at work in the past. <br/> <br/>
+          The STAR interview technique offers a straightforward format you can use to answer behavioral interview questions—those prompts that ask you to provide a real-life example of how you handled a certain kind of situation at work in the past. <br/><br/>
 
           Don’t worry—these questions are easy to recognize. They often have telltale openings like: <br/>
         </div>
