@@ -11,34 +11,12 @@ import Knowledge from './components/Knowledge.js';
 import Index from './components/Index.js';
 
 
-// const randomVideo = array[Math.floor(Math.random() * array.length)];
 
 // ===================
 // COMPONENT
 // ===================
 class App extends Component {
-  constructor (props) {
-  super(props)
-  this.state = {
-    baseURL: 'https://www.youtube.com/embed/',
-    // videoURL: {randomVideo}
-  }
-  // this.handleSubmit = this.handleSubmit.bind(this)
-}
-// handleSubmit (event) {
-//   event.preventDefault()
-//   this.setState({
-//     searchURL: this.state.baseURL + this.state.videoURL
-//   }, () => {
-//     fetch(this.state.searchURL)
-//       .then(response => {
-//         return response.json()
-//       }).then(json => this.setState({
-//
-//       }),
-//       err => console.log(err))
-//   })
-// }
+
   render() {
     return (
       <React.Fragment>
